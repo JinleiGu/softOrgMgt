@@ -1,0 +1,2 @@
+# softOrgMgt
+Week 7
